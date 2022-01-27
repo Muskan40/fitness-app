@@ -1,4 +1,4 @@
-#fitness-app
+## Fitness-app
 
 | Project | Link |
 | ------ | ------ |
